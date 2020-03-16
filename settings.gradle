@@ -1,0 +1,2 @@
+rootProject.name='Android-Socket-Client'
+include ':app'
